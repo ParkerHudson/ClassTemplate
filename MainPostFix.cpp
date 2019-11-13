@@ -9,7 +9,7 @@ void emptyStack(std::stack<double> & s);
 bool isSame(double x, double y);
 int main()
 {
-	std::cout << "COP3530 - Homework 4 Task 2 by ..." << std::endl;
+	std::cout << "COP3530 - Homework 4 Task 2 by Gregory Hudson" << std::endl;
 	int testcount = 1;
 	std::vector<std::string> v;
 	std::stack<double> s;
